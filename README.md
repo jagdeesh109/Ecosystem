@@ -8,6 +8,9 @@ Initial Reference [wiki](https://en.wikipedia.org/wiki/Ecosystem).
 1. Currently there is unbalance in the Ecosytem. Which is dominated by human beings.
 2. As the population is increasing, basic necessity are also increasing, amount of resource required to reach those needs are getting decreased.
 3. ref video [Mercy For Animals](https://www.facebook.com/mercyforanimals/videos/10153522714214475/)
+4. subtle changes in temperature.
+5. Heavy pollution in citys.
+6. scarcity of basic necessities(water,air,land,food)
 
 #solution 
 1. Human always tends to leave in small community. These community design consist of animals,resources,shelters,tree. Currenlty shelter are small bulding,house.
